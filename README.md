@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IreneBurresi
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently  completing a bachelor's degree in Computer Science (University of Pisa)
+- Feel free to contact me at burresi.irene@icloud.com
 
 <!---
 IreneBurresi/IreneBurresi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
